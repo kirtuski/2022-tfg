@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="azure.cosmos" type="repository">
+    <properties maven-id="com.azure:azure-cosmos:4.26.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-cosmos-4.26.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-1.25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-core-3.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.46.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-classes-2.0.46.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-http-netty-1.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-proxy-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-socks-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http2-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-unix-common-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-epoll-4.1.72.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-classes-epoll-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-native-kqueue-4.1.72.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-classes-kqueue-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-netty-http-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-dns-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-native-macos-4.1.72.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-dns-classes-macos-4.1.72.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-netty-core-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-afterburner-2.12.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/HdrHistogram-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metrics-core-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/micrometer-core-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/LatencyUtils-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
